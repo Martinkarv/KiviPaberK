@@ -1,0 +1,11 @@
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\bin\Debug\netcoreapp3.0\KiviPaberK.exe
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\bin\Debug\netcoreapp3.0\KiviPaberK.deps.json
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\bin\Debug\netcoreapp3.0\KiviPaberK.runtimeconfig.json
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\bin\Debug\netcoreapp3.0\KiviPaberK.runtimeconfig.dev.json
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\bin\Debug\netcoreapp3.0\KiviPaberK.dll
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\bin\Debug\netcoreapp3.0\KiviPaberK.pdb
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\obj\Debug\netcoreapp3.0\KiviPaberK.csprojAssemblyReference.cache
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\obj\Debug\netcoreapp3.0\KiviPaberK.AssemblyInfoInputs.cache
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\obj\Debug\netcoreapp3.0\KiviPaberK.AssemblyInfo.cs
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\obj\Debug\netcoreapp3.0\KiviPaberK.dll
+C:\Users\karvm\Desktop\KiviPaberK\KiviPaberK\obj\Debug\netcoreapp3.0\KiviPaberK.pdb
